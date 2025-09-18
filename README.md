@@ -25,8 +25,6 @@ It generates a **facture (invoice)** with the reduced price and allows exporting
 |-----------|------------------|  
 | ![Form1](Cap1.PNG) | ![Facture](Cap2.PNG) |  
 
-*(Replace these placeholders with your own screenshots 📸)*  
-
 ---
 
 ## 🚀 Usage
